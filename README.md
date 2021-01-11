@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Currently using this profile as a dumpsite of all my mini projects that I have made as I try to learn programming.
 <!--
 **earlsab/earlsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
